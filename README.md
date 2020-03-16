@@ -3,3 +3,8 @@ The goal of this project is to refactor code so that it meets acessibility stand
 
 # What the Website Looks Like
 ![First Part of the Page](./assets/images/page1.png)
+![Second Part of the Page](./assets/images/page2.png)
+![Third Part of the Page](./assets/images/page3.png)
+
+# Link to Deployed Application
+Link: https://anishasnet.github.io/horiseon/
