@@ -4,10 +4,13 @@
     margin: 0;
 }
 
+/* style for the whole body */
+
 body {
     background-color: #d9dcd6;
 }
 
+/* styles for the header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -45,11 +48,12 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* styles for p tags */
 p {
     font-size: 16px;
 }
 
+/* styles for the hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +62,7 @@ p {
     background-position: center;
 }
 
+/* general styles for positioning */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* styles for right hand side of screen with benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -101,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/* styles for the left hand side of screen with tools */
 .tools {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,6 +126,7 @@ p {
     font-size: 36px;
 }
 
+/* styles for footer */
 .footer {
     padding: 30px;
     clear: both;
